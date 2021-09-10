@@ -3,7 +3,8 @@
     --color-primary: #FF8400;
 }
 
-html, body {
+html,
+body {
     height: 100%;
     font-family: "Ubuntu", sans-serif;
 }
